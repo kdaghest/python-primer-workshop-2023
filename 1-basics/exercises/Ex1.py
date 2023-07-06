@@ -1,6 +1,6 @@
-#print("byeworld")
+#1. Write a program that takes a user's name as input and prints a 
+#personalized greeting message. (string manipulation)
 
-a = 10
-b = 20
-c = a + b
-print (c)
+z=input("Enter name:")
+
+print("Welcome",z)
