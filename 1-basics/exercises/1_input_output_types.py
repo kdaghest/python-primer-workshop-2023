@@ -16,12 +16,13 @@ b = input()
 # print the output
 
 # What are you getting? Why?
+it's a text.  These are string variables.
 
 
 # How can we fix this?
 # Hint :: Types
 
-
+a
 
 # Ex:: 2
 
